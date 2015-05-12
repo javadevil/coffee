@@ -1,0 +1,28 @@
+{
+  "name": "coffee",
+  "version": "1.0.0",
+  "description": "Coffee at work!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javadevil/coffee.git"
+  },
+  "keywords": [
+    "ERP",
+    "NodeJS",
+    "ExpressJS",
+    "MongoDB"
+  ],
+  "author": "Wacharabuhm Tungketmukda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javadevil/coffee/issues"
+  },
+  "homepage": "https://github.com/javadevil/coffee",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
